@@ -1,4 +1,5 @@
-#🚢 Logistic Regression on Titanic Dataset with Streamlit Deployment
+# 🚢 Logistic Regression on Titanic Dataset with Streamlit Deployment
+
 This project uses logistic regression to predict survival on the Titanic dataset based on passenger features such as class, age, gender, and more. It also includes a Streamlit app to allow user-friendly model interaction.
 
 🧠 What is Logistic Regression?
